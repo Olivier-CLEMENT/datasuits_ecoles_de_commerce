@@ -13,7 +13,7 @@ Ce projet traite de la gestion des vélos en ville
 ## 1. Le problème
 
 <!-- Reprends ta fiche projet : le contexte en 2 ou 3 phrases, la question centrale, l'utilisateur. -->
-- **Contexte** : [la situation et le problème constaté]
+- **Contexte** : Il s'agit de tentatives de réserver des \vélos
 - **Question centrale** : [Comment … pour … ?]
 - **Utilisateur** : [qui prend une décision grâce au projet]
 
