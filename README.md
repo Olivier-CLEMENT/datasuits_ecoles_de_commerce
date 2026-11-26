@@ -31,9 +31,7 @@ Sa décision : il souhaite comprendre le positionnement concurrentiel des école
 | --- | --- | --- |
 | Parcoursup – Ministère de l'Enseignement supérieur | Bases de données statistiques en Open Data, accessibles en consultation, téléchargement et via API | Données par formation et établissement : effectifs de candidats, capacités d'accueil, propositions d'admission et admissions. Source principale pour mesurer l'évolution de la demande et calculer les trois KPI. Parcoursup 2025 – données ouvertes | 
 | Cartographie des formations Parcoursup – Ministère de l'Enseignement supérieur | Base de données en Open Data, accessible en téléchargement et via API | Permet d'identifier les établissements et les formations, leurs caractéristiques, leur localisation et leur statut. Sert à sélectionner les écoles de commerce post-bac et à constituer le panel étudié. Cartographie des formations Parcoursup |
-| CEFDG – Commission d'évaluation des formations et diplômes de gestion | Référentiel institutionnel | Source complémentaire permettant de vérifier les formations et établissements de management évalués, ainsi que certaines reconnaissances officielles. Contribue à qualifier le panel d'établissements étudiés. Accueil - CEFDG - Commission d'évaluation des formations et diplômes de gestion
-Lien indicatif ci-dessous pour d’autres informations
-Bilans académiques Parcoursup 2025 |
+| CEFDG – Commission d'évaluation des formations et diplômes de gestion | Référentiel institutionnel | Source complémentaire permettant de vérifier les formations et établissements de management évalués, ainsi que certaines reconnaissances officielles. Contribue à qualifier le panel d'établissements étudiés. Accueil - CEFDG - Commission d'évaluation des formations et diplômes de gestion. Lien indicatif ci-dessous pour d’autres informations. Bilans académiques Parcoursup 2025 |
 | [Nom de la source et qui la publie] | [Type] | [Les données utiles au projet] |
 
 ## 3. L'organisation du dépôt
