@@ -10,7 +10,7 @@
 <!-- Une phrase qui dit ce que fait ton projet. Exemple : « Prévoir la production de 6 boulangeries selon la météo pour réduire les invendus. » -->
 Prévoir les effectifs attendus dans les écoles de commerce post-bac
 
-## 1. Le problème d
+## 1. Le problème
 
 <!-- Reprends ta fiche projet : le contexte en 2 ou 3 phrases, la question centrale, l'utilisateur. -->
 - **Contexte** : Le marché des écoles de commerce post-bac est confronté à une évolution des comportements des candidats, dans un contexte de concurrence accrue entre établissements et de multiplication des formations proposées sur Parcoursup.
