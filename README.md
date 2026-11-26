@@ -5,7 +5,7 @@
   Repères Markdown : une ligne qui commence par # est un titre ; une ligne qui commence par - est une puce.
 -->
 
-# [Titre de ton projet]
+# [TTTitre de ton projet]
 
 <!-- Une phrase qui dit ce que fait ton projet. Exemple : « Prévoir la production de 6 boulangeries selon la météo pour réduire les invendus. » -->
 [Ton projet en une phrase.]
